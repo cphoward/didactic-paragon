@@ -7,14 +7,20 @@
 * https://github.com/junegunn/fzf is great for those Control+R shell sessions
 * Redis is a DB worth self hosting due to its high maintainability
 
-## CLI Tools
+## Tools
 
 TCP/IP
+
 * `dig`
 * `nc`
 
 HTTP
+
 * `ab` Apache Bench
+* `wrk`/`wrk2` https://github.com/giltene/wrk2
+* `httperf`
+* `locust` https://locust.io/
 
 SEARCH
+
 * Ripgrep
