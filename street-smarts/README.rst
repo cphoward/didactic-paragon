@@ -15,3 +15,6 @@ TCP/IP
 
 HTTP
 * `ab` Apache Bench
+
+SEARCH
+* Ripgrep
