@@ -9,18 +9,23 @@
 
 ## Tools
 
-TCP/IP
+### TCP/IP
 
 * `dig`
 * `nc`
 
-HTTP
+### HTTP
 
 * `ab` Apache Bench
 * `wrk`/`wrk2` https://github.com/giltene/wrk2
 * `httperf`
 * `locust` https://locust.io/
 
-SEARCH
+### Search
 
 * Ripgrep
+
+### Dependency management
+
+* Renovate
+* Renovate Approve
