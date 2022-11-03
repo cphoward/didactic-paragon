@@ -7,6 +7,7 @@
 * https://github.com/junegunn/fzf is great for those Control+R shell sessions
 * Redis is a DB worth self hosting due to its high maintainability
 * https://github.com/pulls
+* `pledge` at https://man.openbsd.org/pledge.2 can restrict process permissions easily
 
 ## Tools
 
