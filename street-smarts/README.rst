@@ -8,6 +8,7 @@
 * Redis is a DB worth self hosting due to its high maintainability
 * https://github.com/pulls
 * `pledge` at https://man.openbsd.org/pledge.2 can restrict process permissions easily
+* https://github.com/jlevy/the-art-of-command-line
 
 ## Tools
 
